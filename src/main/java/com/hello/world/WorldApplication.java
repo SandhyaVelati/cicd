@@ -8,7 +8,7 @@ public class WorldApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WorldApplication.class, args);
-		System.out.println("just checking cicd");
+		System.out.println("just checking cicd to ec2");
 	}
 
 }
